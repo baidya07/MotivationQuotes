@@ -1,6 +1,6 @@
 # status_quote
 
-A new Flutter project.
+Its just a simple flutter project where new random quotes will appear when you click in Motivate me Button!!!
 
 ## Getting Started
 
